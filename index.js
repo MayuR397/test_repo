@@ -10,3 +10,9 @@ function divide (a,b){
 }
 
 divide(10,2)
+
+
+function greet(){
+    console.log("hello")
+}
+greet()
